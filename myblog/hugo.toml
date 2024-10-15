@@ -1,0 +1,4 @@
+baseURL = 'https://Vampius.github.io'
+languageCode = 'en-us'
+title = 'Naujas hugo puslapis'
+theme = 'hugo-simple-main'

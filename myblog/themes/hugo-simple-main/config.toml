@@ -1,0 +1,4 @@
+[module.hugoVersion]
+theme = "hugo-simple-main"
+extended = false
+min = "0.112.4"
